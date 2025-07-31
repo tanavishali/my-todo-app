@@ -1,7 +1,7 @@
 {
   "name": "my-todo-app",
   "version": "0.1.0",
-  "homepage": "https://admin.github.io/my-todo-app",
+  "homepage": "/my-todo-app/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
